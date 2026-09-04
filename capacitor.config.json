@@ -1,0 +1,8 @@
+{
+  "appId": "com.appforge.controledevendassorvetespararegistr",
+  "appName": "Controle de Vendas Sorvetes para registr",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
